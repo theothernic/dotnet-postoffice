@@ -1,4 +1,4 @@
-namespace DefaultNamespace
+namespace Postoffice.Processor
 {
     public class Startup
     {

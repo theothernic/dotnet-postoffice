@@ -1,4 +1,7 @@
-$HEADER$namespace $NAMESPACE$
+namespace Postoffice.Application
 {
-  public class $CLASS$ {$END$}
+    public interface IAppService
+    {
+        
+    }
 }
